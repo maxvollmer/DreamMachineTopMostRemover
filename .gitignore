@@ -1,0 +1,10 @@
+/.vs
+/Debug
+/ipch
+/*.sln
+/*.VC.db
+/*.VC.VC.opendb
+/*.vcxproj
+/*.vcxproj.filters
+/Release
+/x64
